@@ -1,4 +1,4 @@
-package CH01;
+package ch01;
 
 public class SelamTest {
     public static void main(String[] args) {

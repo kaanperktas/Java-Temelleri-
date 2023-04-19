@@ -1,4 +1,4 @@
-package CH01;
+package ch01;
 
 public class Selam {
     String world = "millet";
