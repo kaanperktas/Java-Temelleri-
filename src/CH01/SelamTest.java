@@ -6,8 +6,5 @@ public class SelamTest {
 
         String cevap = selam.selamSoyle("Kaan");
         System.out.println(cevap);
-
-        cevap = selam.selamSoyle("");
-        System.out.println(cevap);
     }
 }

@@ -5,12 +5,12 @@ public class Selam {
 
     public String selamSoyle(String kime){
         String cumle;
-        if(kime != ""){
+        if (kime != ""){
             cumle = "Selam" + kime + ":)";
         }
         else{
             cumle = "Selam" + world + ":)";
         }
-        return cumle;
+        return  cumle;
     }
 }
